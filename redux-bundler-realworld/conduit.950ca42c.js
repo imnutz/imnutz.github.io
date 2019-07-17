@@ -497,4 +497,4 @@ var t;!function(n,e){"object"==typeof exports&&"undefined"!=typeof module?module
 },{"react":"HdMw","redux-bundler-react":"owxN","./header":"EVAn","./footer":"p/z5"}],"Focm":[function(require,module,exports) {
 "use strict";var e=c(require("react")),r=require("react-dom"),t=require("redux-bundler-react"),u=o(require("./bundles")),n=o(require("./components/layout"));function o(e){return e&&e.__esModule?e:{default:e}}function c(e){if(e&&e.__esModule)return e;var r={};if(null!=e)for(var t in e)if(Object.prototype.hasOwnProperty.call(e,t)){var u=Object.defineProperty&&Object.getOwnPropertyDescriptor?Object.getOwnPropertyDescriptor(e,t):{};u.get||u.set?Object.defineProperty(r,t,u):r[t]=e[t]}return r.default=e,r}var a=(0,u.default)();(0,r.render)(e.createElement(t.Provider,{store:a},e.createElement(n.default,null)),document.querySelector("#app"));
 },{"react":"HdMw","react-dom":"X9zx","redux-bundler-react":"owxN","./bundles":"AXWo","./components/layout":"pq3P"}]},{},["Focm"], null)
-//# sourceMappingURL=redux-bundler-realworld/conduit.950ca42c.map
+//# sourceMappingURL=conduit.950ca42c.map
