@@ -4,7 +4,8 @@ module.exports = {
     entry: {
         cluster: "./mapbox_clustering.js",
         layer: "./layer.js",
-        zooming: "./zooming.js"
+        zooming: "./zooming.js",
+        polygon: "./polygon.js"
     },
     output: {
         filename: "[name].js",
@@ -28,7 +29,6 @@ module.exports = {
     },
     devServer: {
         port: 9000,
-        hot: true,
-        contentBase: __dirname
+        hot: true
     }
 };

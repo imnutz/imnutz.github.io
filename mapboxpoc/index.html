@@ -6,21 +6,58 @@
             rel="stylesheet"
         />
         <style>
+            * {
+                box-sizing: border-box;
+            }
+
             html,
-            body {
+            body,
+            ul,
+            li,
+            h1, h3 {
                 margin: 0;
                 padding: 0;
             }
 
+            h1 {
+                text-align: center;
+                height: 40px;
+                border-bottom: 1px dotted gray;
+            }
+
             .links {
                 width: 100vw;
-                height: 100vh;
+                height: calc(100vh - 40px);
                 display: flex;
                 align-items: center;
                 justify-content: center;
+                margin-top: 40px;
             }
 
-            .links a {
+            ul {
+                padding-left: 20px;
+                list-style-type: circle;
+            }
+
+            .links .card {
+                display: flex;
+                flex-direction: column;
+                flex-basis: 200px;
+                height: 400px;
+                padding: 5px;
+                border: 1px solid blue;
+                border-radius: 5px;
+            }
+            .links .card .desc {
+                flex: 1;
+                padding: 5px 0;
+            }
+            .links .card h3 {
+                border-bottom: 1px solid lightgray;
+                padding: 5px 0;
+            }
+
+            .links .card a {
                 display: block;
                 width: 120px;
                 height: 50px;
@@ -33,10 +70,46 @@
         </style>
     </head>
     <body>
+        <h1>Mapbox POC</h1>
         <div class="links">
-            <a href="cluster.html">Clustering</a>
-            <a href="layer.html">Layer</a>
-            <a href="zooming.html">Zooming</a>
+            <div class="card">
+                <h3>Clustering</h3>
+                <div class="desc">
+                    Grouping points into clusters, more points will be shown as zooming.
+                </div>
+                <a href="cluster.html">See it!</a>
+            </div>
+
+            <div class="card">
+                <h3>Layer</h3>
+                <div class="desc">
+                    <ul>
+                        <li>Go to specific location when click a link in a popup</li>
+                        <li>Apply different colors based on area value</li>
+                    </ul>
+                </div>
+                <a href="layer.html">See it!</a>
+            </div>
+
+            <div class="card">
+                <h3>Zooming</h3>
+                <div class="desc">
+                    Basic zooming
+                </div>
+                <a href="zooming.html">See it!</a>
+            </div>
+
+            <div class="card">
+                <h3>Polygon</h3>
+                <div class="desc">
+                    Data from Old UI GEO chart
+                    <ul>
+                        <li>Show data of US's states with difference colors based on values</li>
+                        <li>Click on an area will zoom into that location to show more details.</li>
+                    </ul>
+                </div>
+                <a href="polygon.html">See it!</a>
+            </div>
         </div>
     </body>
 </html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link
+            href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.3.1/mapbox-gl.css"
+            rel="stylesheet"
+        />
+        <style>
+            html,
+            body {
+                margin: 0;
+                padding: 0;
+            }
+            .info-popup p,
+            .state-info-popup p {
+                display: flex;
+            }
+            .state-info-popup p span,
+            .info-popup p span {
+                display: block;
+            }
+
+            .state-info-popup p.element,
+            .info-popup p.element {
+                flex-direction: column;
+            }
+
+            .state-info-popup p span:first-child,
+            .info-popup p span:first-child {
+                flex: 1;
+            }
+
+            .back-btn {
+                display: none;
+                position: absolute;
+                top: 10px;
+                left: 10px;
+                width: 120px;
+                height: 40px;
+                border: 1px solid red;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="app"></div>
+        <button class="back-btn">Back</button>
+        <script src="dist/polygon.js"></script>
+    </body>
+</html>

@@ -6,6 +6,7 @@ import wifi from "./wifi.json";
 
 const RAN_MIN = 10;
 const RAN_MAX = 1000;
+const STATE_ZOOM = 3;
 
 const token =
     "pk.eyJ1IjoiaW1udXR6IiwiYSI6ImNrMHAxY2UxZzBnc2EzZG11YmVhd2dubG0ifQ.bUTN7ceAHq6kVooe3MKgqg";
@@ -167,7 +168,7 @@ const MarkerMap = {
         let html = `
             <div class="info-popup">
                 <p><span>Name:</span><span>${name}</span></p>
-                <p><span>Price:</span><span>${price}</span></p>
+                <p><span>Price:</span><span>$$${price}</span></p>
                 <p><span>Host:</span><span>${host_name}</span></p>
             </div>
         `;
@@ -259,7 +260,7 @@ const MarkerMap = {
         this.map = new mapboxgl.Map({
             container: this,
             style: "mapbox://styles/mapbox/light-v10",
-            zoom: 2
+            zoom: STATE_ZOOM
         });
 
         this.map.on("load", this.onMapLoaded.bind(this));
@@ -278,7 +279,7 @@ const MarkerMap = {
         this.map.getSource("mysource").setData(usStates);
         this.map.flyTo({
             center: usStates.features[0].geometry.coordinates,
-            zoom: 2
+            zoom: STATE_ZOOM 
         });
 
         this.map.removeLayer(this.layers["wifi-price"].id);
