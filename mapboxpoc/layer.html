@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link
+            href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.3.1/mapbox-gl.css"
+            rel="stylesheet"
+        />
+        <style>
+            html,
+            body {
+                margin: 0;
+                padding: 0;
+            }
+
+            #marker {
+                background-image: url("https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg");
+                background-size: cover;
+                width: 50px;
+                height: 50px;
+                border-radius: 50%;
+                cursor: pointer;
+            }
+
+            .mapboxgl-popup {
+                max-width: 200px;
+            }
+
+            .info-popup {
+                padding: 5px;
+                width: 180px;
+            }
+
+            .see-more a {
+                text-decoration: none;
+            }
+
+            .info-popup p {
+                display: flex;
+            }
+            .info-popup p span {
+                display: block;
+            }
+            .info-popup p span:first-child {
+                flex: 1;
+            }
+
+            .back-btn {
+                display: none;
+                position: absolute;
+                top: 10px;
+                left: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="app"></div>
+
+        <button class="back-btn">Back</button>
+
+        <script src="dist/layer.js"></script>
+    </body>
+</html>

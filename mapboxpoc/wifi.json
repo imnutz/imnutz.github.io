@@ -1,0 +1,3341 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.97237, 40.64749]
+            },
+            "properties": {
+                "id": 2539,
+                "name": "Clean & quiet apt home by the park",
+                "host_id": 2787,
+                "host_name": "John",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Kensington",
+                "room_type": "Private room",
+                "price": 149,
+                "minimum_nights": 1,
+                "number_of_reviews": 9,
+                "last_review": "2018-10-19",
+                "reviews_per_month": 0.21,
+                "calculated_host_listings_count": 6,
+                "availability_365": 365
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98377, 40.75362]
+            },
+            "properties": {
+                "id": 2595,
+                "name": "Skylit Midtown Castle",
+                "host_id": 2845,
+                "host_name": "Jennifer",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Midtown",
+                "room_type": "Entire home/apt",
+                "price": 225,
+                "minimum_nights": 1,
+                "number_of_reviews": 45,
+                "last_review": "2019-05-21",
+                "reviews_per_month": 0.38,
+                "calculated_host_listings_count": 2,
+                "availability_365": 355
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9419, 40.80902]
+            },
+            "properties": {
+                "id": 3647,
+                "name": "THE VILLAGE OF HARLEM....NEW YORK !",
+                "host_id": 4632,
+                "host_name": "Elisabeth",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Harlem",
+                "room_type": "Private room",
+                "price": 150,
+                "minimum_nights": 3,
+                "number_of_reviews": 0,
+                "last_review": "",
+                "reviews_per_month": null,
+                "calculated_host_listings_count": 1,
+                "availability_365": 365
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.95976, 40.68514]
+            },
+            "properties": {
+                "id": 3831,
+                "name": "Cozy Entire Floor of Brownstone",
+                "host_id": 4869,
+                "host_name": "LisaRoxanne",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Clinton Hill",
+                "room_type": "Entire home/apt",
+                "price": 89,
+                "minimum_nights": 1,
+                "number_of_reviews": 270,
+                "last_review": "2019-07-05",
+                "reviews_per_month": 4.64,
+                "calculated_host_listings_count": 1,
+                "availability_365": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.94399, 40.79851]
+            },
+            "properties": {
+                "id": 5022,
+                "name": "Entire Apt: Spacious Studio/Loft by central park",
+                "host_id": 7192,
+                "host_name": "Laura",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "East Harlem",
+                "room_type": "Entire home/apt",
+                "price": 80,
+                "minimum_nights": 10,
+                "number_of_reviews": 9,
+                "last_review": "2018-11-19",
+                "reviews_per_month": 0.1,
+                "calculated_host_listings_count": 1,
+                "availability_365": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.975, 40.74767]
+            },
+            "properties": {
+                "id": 5099,
+                "name": "Large Cozy 1 BR Apartment In Midtown East",
+                "host_id": 7322,
+                "host_name": "Chris",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Murray Hill",
+                "room_type": "Entire home/apt",
+                "price": 200,
+                "minimum_nights": 3,
+                "number_of_reviews": 74,
+                "last_review": "2019-06-22",
+                "reviews_per_month": 0.59,
+                "calculated_host_listings_count": 1,
+                "availability_365": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.95596, 40.68688]
+            },
+            "properties": {
+                "id": 5121,
+                "name": "BlissArtsSpace!",
+                "host_id": 7356,
+                "host_name": "Garon",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Bedford-Stuyvesant",
+                "room_type": "Private room",
+                "price": 60,
+                "minimum_nights": 45,
+                "number_of_reviews": 49,
+                "last_review": "2017-10-05",
+                "reviews_per_month": 0.4,
+                "calculated_host_listings_count": 1,
+                "availability_365": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98493, 40.76489]
+            },
+            "properties": {
+                "id": 5178,
+                "name": "Large Furnished Room Near B'way ",
+                "host_id": 8967,
+                "host_name": "Shunichi",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Hell's Kitchen",
+                "room_type": "Private room",
+                "price": 79,
+                "minimum_nights": 2,
+                "number_of_reviews": 430,
+                "last_review": "2019-06-24",
+                "reviews_per_month": 3.47,
+                "calculated_host_listings_count": 1,
+                "availability_365": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.96723, 40.80178]
+            },
+            "properties": {
+                "id": 5203,
+                "name": "Cozy Clean Guest Room - Family Apt",
+                "host_id": 7490,
+                "host_name": "MaryEllen",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Upper West Side",
+                "room_type": "Private room",
+                "price": 79,
+                "minimum_nights": 2,
+                "number_of_reviews": 118,
+                "last_review": "2017-07-21",
+                "reviews_per_month": 0.99,
+                "calculated_host_listings_count": 1,
+                "availability_365": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.99037, 40.71344]
+            },
+            "properties": {
+                "id": 5238,
+                "name": "Cute & Cozy Lower East Side 1 bdrm",
+                "host_id": 7549,
+                "host_name": "Ben",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Chinatown",
+                "room_type": "Entire home/apt",
+                "price": 150,
+                "minimum_nights": 1,
+                "number_of_reviews": 160,
+                "last_review": "2019-06-09",
+                "reviews_per_month": 1.33,
+                "calculated_host_listings_count": 4,
+                "availability_365": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.96545, 40.80316]
+            },
+            "properties": {
+                "id": 5295,
+                "name": "Beautiful 1br on Upper West Side",
+                "host_id": 7702,
+                "host_name": "Lena",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Upper West Side",
+                "room_type": "Entire home/apt",
+                "price": 135,
+                "minimum_nights": 5,
+                "number_of_reviews": 53,
+                "last_review": "2019-06-22",
+                "reviews_per_month": 0.43,
+                "calculated_host_listings_count": 1,
+                "availability_365": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98867, 40.76076]
+            },
+            "properties": {
+                "id": 5441,
+                "name": "Central Manhattan/near Broadway",
+                "host_id": 7989,
+                "host_name": "Kate",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Hell's Kitchen",
+                "room_type": "Private room",
+                "price": 85,
+                "minimum_nights": 2,
+                "number_of_reviews": 188,
+                "last_review": "2019-06-23",
+                "reviews_per_month": 1.5,
+                "calculated_host_listings_count": 1,
+                "availability_365": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98779, 40.66829]
+            },
+            "properties": {
+                "id": 5803,
+                "name": "Lovely Room 1, Garden, Best Area, Legal rental",
+                "host_id": 9744,
+                "host_name": "Laurie",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "South Slope",
+                "room_type": "Private room",
+                "price": 89,
+                "minimum_nights": 4,
+                "number_of_reviews": 167,
+                "last_review": "2019-06-24",
+                "reviews_per_month": 1.34,
+                "calculated_host_listings_count": 3,
+                "availability_365": 314
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.96113, 40.79826]
+            },
+            "properties": {
+                "id": 6021,
+                "name": "Wonderful Guest Bedroom in Manhattan for SINGLES",
+                "host_id": 11528,
+                "host_name": "Claudio",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Upper West Side",
+                "room_type": "Private room",
+                "price": 85,
+                "minimum_nights": 2,
+                "number_of_reviews": 113,
+                "last_review": "2019-07-05",
+                "reviews_per_month": 0.91,
+                "calculated_host_listings_count": 1,
+                "availability_365": 333
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.00525, 40.7353]
+            },
+            "properties": {
+                "id": 6090,
+                "name": "West Village Nest - Superhost",
+                "host_id": 11975,
+                "host_name": "Alina",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "West Village",
+                "room_type": "Entire home/apt",
+                "price": 120,
+                "minimum_nights": 90,
+                "number_of_reviews": 27,
+                "last_review": "2018-10-31",
+                "reviews_per_month": 0.22,
+                "calculated_host_listings_count": 1,
+                "availability_365": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.95352, 40.70837]
+            },
+            "properties": {
+                "id": 6848,
+                "name": "Only 2 stops to Manhattan studio",
+                "host_id": 15991,
+                "host_name": "Allen & Irina",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Williamsburg",
+                "room_type": "Entire home/apt",
+                "price": 140,
+                "minimum_nights": 2,
+                "number_of_reviews": 148,
+                "last_review": "2019-06-29",
+                "reviews_per_month": 1.2,
+                "calculated_host_listings_count": 1,
+                "availability_365": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.97185, 40.69169]
+            },
+            "properties": {
+                "id": 7097,
+                "name": "Perfect for Your Parents + Garden",
+                "host_id": 17571,
+                "host_name": "Jane",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Fort Greene",
+                "room_type": "Entire home/apt",
+                "price": 215,
+                "minimum_nights": 2,
+                "number_of_reviews": 198,
+                "last_review": "2019-06-28",
+                "reviews_per_month": 1.72,
+                "calculated_host_listings_count": 1,
+                "availability_365": 321
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.99501, 40.74192]
+            },
+            "properties": {
+                "id": 7322,
+                "name": "Chelsea Perfect",
+                "host_id": 18946,
+                "host_name": "Doti",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Chelsea",
+                "room_type": "Private room",
+                "price": 140,
+                "minimum_nights": 1,
+                "number_of_reviews": 260,
+                "last_review": "2019-07-01",
+                "reviews_per_month": 2.12,
+                "calculated_host_listings_count": 1,
+                "availability_365": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.94694, 40.67592]
+            },
+            "properties": {
+                "id": 7726,
+                "name": "Hip Historic Brownstone Apartment with Backyard",
+                "host_id": 20950,
+                "host_name": "Adam And Charity",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Crown Heights",
+                "room_type": "Entire home/apt",
+                "price": 99,
+                "minimum_nights": 3,
+                "number_of_reviews": 53,
+                "last_review": "2019-06-22",
+                "reviews_per_month": 4.44,
+                "calculated_host_listings_count": 1,
+                "availability_365": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.94872, 40.79685]
+            },
+            "properties": {
+                "id": 7750,
+                "name": "Huge 2 BR Upper East  Cental Park",
+                "host_id": 17985,
+                "host_name": "Sing",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "East Harlem",
+                "room_type": "Entire home/apt",
+                "price": 190,
+                "minimum_nights": 7,
+                "number_of_reviews": 0,
+                "last_review": "",
+                "reviews_per_month": null,
+                "calculated_host_listings_count": 2,
+                "availability_365": 249
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.95718, 40.71842]
+            },
+            "properties": {
+                "id": 7801,
+                "name": "Sweet and Spacious Brooklyn Loft",
+                "host_id": 21207,
+                "host_name": "Chaya",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Williamsburg",
+                "room_type": "Entire home/apt",
+                "price": 299,
+                "minimum_nights": 3,
+                "number_of_reviews": 9,
+                "last_review": "2011-12-28",
+                "reviews_per_month": 0.07,
+                "calculated_host_listings_count": 1,
+                "availability_365": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.97706, 40.68069]
+            },
+            "properties": {
+                "id": 8024,
+                "name": "CBG CtyBGd HelpsHaiti rm#1:1-4",
+                "host_id": 22486,
+                "host_name": "Lisel",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Park Slope",
+                "room_type": "Private room",
+                "price": 130,
+                "minimum_nights": 2,
+                "number_of_reviews": 130,
+                "last_review": "2019-07-01",
+                "reviews_per_month": 1.09,
+                "calculated_host_listings_count": 6,
+                "availability_365": 347
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.97798, 40.67989]
+            },
+            "properties": {
+                "id": 8025,
+                "name": "CBG Helps Haiti Room#2.5",
+                "host_id": 22486,
+                "host_name": "Lisel",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Park Slope",
+                "room_type": "Private room",
+                "price": 80,
+                "minimum_nights": 1,
+                "number_of_reviews": 39,
+                "last_review": "2019-01-01",
+                "reviews_per_month": 0.37,
+                "calculated_host_listings_count": 6,
+                "availability_365": 364
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.97865, 40.68001]
+            },
+            "properties": {
+                "id": 8110,
+                "name": "CBG Helps Haiti Rm #2",
+                "host_id": 22486,
+                "host_name": "Lisel",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Park Slope",
+                "room_type": "Private room",
+                "price": 110,
+                "minimum_nights": 2,
+                "number_of_reviews": 71,
+                "last_review": "2019-07-02",
+                "reviews_per_month": 0.61,
+                "calculated_host_listings_count": 6,
+                "availability_365": 304
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.94028, 40.68371]
+            },
+            "properties": {
+                "id": 8490,
+                "name": "MAISON DES SIRENES1,bohemian apartment",
+                "host_id": 25183,
+                "host_name": "Nathalie",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Bedford-Stuyvesant",
+                "room_type": "Entire home/apt",
+                "price": 120,
+                "minimum_nights": 2,
+                "number_of_reviews": 88,
+                "last_review": "2019-06-19",
+                "reviews_per_month": 0.73,
+                "calculated_host_listings_count": 2,
+                "availability_365": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.97519, 40.65599]
+            },
+            "properties": {
+                "id": 8505,
+                "name": "Sunny Bedroom Across Prospect Park",
+                "host_id": 25326,
+                "host_name": "Gregory",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Windsor Terrace",
+                "room_type": "Private room",
+                "price": 60,
+                "minimum_nights": 1,
+                "number_of_reviews": 19,
+                "last_review": "2019-06-23",
+                "reviews_per_month": 1.37,
+                "calculated_host_listings_count": 2,
+                "availability_365": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.92639, 40.86754]
+            },
+            "properties": {
+                "id": 8700,
+                "name": "Magnifique Suite au N de Manhattan - vue Cloitres",
+                "host_id": 26394,
+                "host_name": "Claude & Sophie",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Inwood",
+                "room_type": "Private room",
+                "price": 80,
+                "minimum_nights": 4,
+                "number_of_reviews": 0,
+                "last_review": "",
+                "reviews_per_month": null,
+                "calculated_host_listings_count": 1,
+                "availability_365": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98533, 40.76715]
+            },
+            "properties": {
+                "id": 9357,
+                "name": "Midtown Pied-a-terre",
+                "host_id": 30193,
+                "host_name": "Tommi",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Hell's Kitchen",
+                "room_type": "Entire home/apt",
+                "price": 150,
+                "minimum_nights": 10,
+                "number_of_reviews": 58,
+                "last_review": "2017-08-13",
+                "reviews_per_month": 0.49,
+                "calculated_host_listings_count": 1,
+                "availability_365": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.92106, 40.86482]
+            },
+            "properties": {
+                "id": 9518,
+                "name": "SPACIOUS, LOVELY FURNISHED MANHATTAN BEDROOM",
+                "host_id": 31374,
+                "host_name": "Shon",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Inwood",
+                "room_type": "Private room",
+                "price": 44,
+                "minimum_nights": 3,
+                "number_of_reviews": 108,
+                "last_review": "2019-06-15",
+                "reviews_per_month": 1.11,
+                "calculated_host_listings_count": 3,
+                "availability_365": 311
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98542, 40.7292]
+            },
+            "properties": {
+                "id": 9657,
+                "name": "Modern 1 BR / NYC / EAST VILLAGE",
+                "host_id": 21904,
+                "host_name": "Dana",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "East Village",
+                "room_type": "Entire home/apt",
+                "price": 180,
+                "minimum_nights": 14,
+                "number_of_reviews": 29,
+                "last_review": "2019-04-19",
+                "reviews_per_month": 0.24,
+                "calculated_host_listings_count": 1,
+                "availability_365": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.95104, 40.82245]
+            },
+            "properties": {
+                "id": 9668,
+                "name": "front room/double bed",
+                "host_id": 32294,
+                "host_name": "Ssameer Or Trip",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Harlem",
+                "room_type": "Private room",
+                "price": 50,
+                "minimum_nights": 3,
+                "number_of_reviews": 242,
+                "last_review": "2019-06-01",
+                "reviews_per_month": 2.04,
+                "calculated_host_listings_count": 3,
+                "availability_365": 355
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.95466, 40.81305]
+            },
+            "properties": {
+                "id": 9704,
+                "name": "Spacious 1 bedroom in luxe building",
+                "host_id": 32045,
+                "host_name": "Teri",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Harlem",
+                "room_type": "Private room",
+                "price": 52,
+                "minimum_nights": 2,
+                "number_of_reviews": 88,
+                "last_review": "2019-06-14",
+                "reviews_per_month": 1.42,
+                "calculated_host_listings_count": 1,
+                "availability_365": 255
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.93762, 40.72219]
+            },
+            "properties": {
+                "id": 9782,
+                "name": "Loft in Williamsburg Area w/ Roof",
+                "host_id": 32169,
+                "host_name": "Andrea",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Greenpoint",
+                "room_type": "Private room",
+                "price": 55,
+                "minimum_nights": 4,
+                "number_of_reviews": 197,
+                "last_review": "2019-06-15",
+                "reviews_per_month": 1.65,
+                "calculated_host_listings_count": 3,
+                "availability_365": 284
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.95318, 40.8213]
+            },
+            "properties": {
+                "id": 9783,
+                "name": "back room/bunk beds",
+                "host_id": 32294,
+                "host_name": "Ssameer Or Trip",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Harlem",
+                "room_type": "Private room",
+                "price": 50,
+                "minimum_nights": 3,
+                "number_of_reviews": 273,
+                "last_review": "2019-07-01",
+                "reviews_per_month": 2.37,
+                "calculated_host_listings_count": 3,
+                "availability_365": 359
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.95473, 40.6831]
+            },
+            "properties": {
+                "id": 10452,
+                "name": "Large B&B Style rooms",
+                "host_id": 35935,
+                "host_name": "Angela",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Bedford-Stuyvesant",
+                "room_type": "Private room",
+                "price": 70,
+                "minimum_nights": 1,
+                "number_of_reviews": 74,
+                "last_review": "2019-05-12",
+                "reviews_per_month": 0.66,
+                "calculated_host_listings_count": 2,
+                "availability_365": 269
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9878, 40.66869]
+            },
+            "properties": {
+                "id": 10962,
+                "name": "Lovely room 2 & garden; Best area, Legal rental",
+                "host_id": 9744,
+                "host_name": "Laurie",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "South Slope",
+                "room_type": "Private room",
+                "price": 89,
+                "minimum_nights": 4,
+                "number_of_reviews": 168,
+                "last_review": "2019-06-21",
+                "reviews_per_month": 1.41,
+                "calculated_host_listings_count": 3,
+                "availability_365": 340
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.94312, 40.68876]
+            },
+            "properties": {
+                "id": 11452,
+                "name": "Clean and Quiet in Brooklyn",
+                "host_id": 7355,
+                "host_name": "Vt",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Bedford-Stuyvesant",
+                "room_type": "Private room",
+                "price": 35,
+                "minimum_nights": 60,
+                "number_of_reviews": 0,
+                "last_review": "",
+                "reviews_per_month": null,
+                "calculated_host_listings_count": 1,
+                "availability_365": 365
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.92745, 40.70186]
+            },
+            "properties": {
+                "id": 11708,
+                "name": "Cute apt in artist's home",
+                "host_id": 44145,
+                "host_name": "Tyrome",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Bushwick",
+                "room_type": "Entire home/apt",
+                "price": 85,
+                "minimum_nights": 2,
+                "number_of_reviews": 231,
+                "last_review": "2019-06-22",
+                "reviews_per_month": 1.96,
+                "calculated_host_listings_count": 2,
+                "availability_365": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.96327, 40.63702]
+            },
+            "properties": {
+                "id": 11943,
+                "name": "Country space in the city",
+                "host_id": 45445,
+                "host_name": "Harriet",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Flatbush",
+                "room_type": "Private room",
+                "price": 150,
+                "minimum_nights": 1,
+                "number_of_reviews": 0,
+                "last_review": "",
+                "reviews_per_month": null,
+                "calculated_host_listings_count": 1,
+                "availability_365": 365
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98917, 40.71401]
+            },
+            "properties": {
+                "id": 12048,
+                "name": "LowerEastSide apt share shortterm 1",
+                "host_id": 7549,
+                "host_name": "Ben",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Lower East Side",
+                "room_type": "Shared room",
+                "price": 40,
+                "minimum_nights": 1,
+                "number_of_reviews": 214,
+                "last_review": "2019-07-05",
+                "reviews_per_month": 1.81,
+                "calculated_host_listings_count": 4,
+                "availability_365": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98199, 40.7229]
+            },
+            "properties": {
+                "id": 12192,
+                "name": "ENJOY Downtown NYC!",
+                "host_id": 46978,
+                "host_name": "Edward",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "East Village",
+                "room_type": "Private room",
+                "price": 68,
+                "minimum_nights": 2,
+                "number_of_reviews": 245,
+                "last_review": "2019-06-21",
+                "reviews_per_month": 2.08,
+                "calculated_host_listings_count": 2,
+                "availability_365": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.97966, 40.66278]
+            },
+            "properties": {
+                "id": 12299,
+                "name": "Beautiful Sunny Park Slope Brooklyn",
+                "host_id": 47610,
+                "host_name": "Abdul",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "South Slope",
+                "room_type": "Entire home/apt",
+                "price": 120,
+                "minimum_nights": 3,
+                "number_of_reviews": 15,
+                "last_review": "2019-05-27",
+                "reviews_per_month": 0.39,
+                "calculated_host_listings_count": 1,
+                "availability_365": 345
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.97584, 40.69673]
+            },
+            "properties": {
+                "id": 12303,
+                "name": "1bdr w private bath. in lofty apt",
+                "host_id": 47618,
+                "host_name": "Yolande",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Fort Greene",
+                "room_type": "Private room",
+                "price": 120,
+                "minimum_nights": 7,
+                "number_of_reviews": 25,
+                "last_review": "2018-09-30",
+                "reviews_per_month": 0.23,
+                "calculated_host_listings_count": 1,
+                "availability_365": 311
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.97927, 40.79009]
+            },
+            "properties": {
+                "id": 12318,
+                "name": "West Side Retreat",
+                "host_id": 16800,
+                "host_name": "Cyn",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Upper West Side",
+                "room_type": "Private room",
+                "price": 135,
+                "minimum_nights": 4,
+                "number_of_reviews": 81,
+                "last_review": "2019-06-16",
+                "reviews_per_month": 0.69,
+                "calculated_host_listings_count": 1,
+                "availability_365": 273
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.94478, 40.81175]
+            },
+            "properties": {
+                "id": 12343,
+                "name": "BEST BET IN HARLEM",
+                "host_id": 47727,
+                "host_name": "Earl",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Harlem",
+                "room_type": "Entire home/apt",
+                "price": 150,
+                "minimum_nights": 7,
+                "number_of_reviews": 97,
+                "last_review": "2019-06-13",
+                "reviews_per_month": 0.84,
+                "calculated_host_listings_count": 1,
+                "availability_365": 309
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.96238, 40.65944]
+            },
+            "properties": {
+                "id": 12627,
+                "name": "Entire apartment in central Brooklyn neighborhood.",
+                "host_id": 49670,
+                "host_name": "Rana",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Prospect-Lefferts Gardens",
+                "room_type": "Entire home/apt",
+                "price": 150,
+                "minimum_nights": 29,
+                "number_of_reviews": 11,
+                "last_review": "2019-06-05",
+                "reviews_per_month": 0.49,
+                "calculated_host_listings_count": 1,
+                "availability_365": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9474, 40.74771]
+            },
+            "properties": {
+                "id": 12937,
+                "name": "1 Stop fr. Manhattan! Private Suite,Landmark Block",
+                "host_id": 50124,
+                "host_name": "Orestes",
+                "neighbourhood_group": "Queens",
+                "neighbourhood": "Long Island City",
+                "room_type": "Private room",
+                "price": 130,
+                "minimum_nights": 3,
+                "number_of_reviews": 248,
+                "last_review": "2019-07-01",
+                "reviews_per_month": 2.25,
+                "calculated_host_listings_count": 1,
+                "availability_365": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.95591, 40.68111]
+            },
+            "properties": {
+                "id": 12940,
+                "name": "Charming Brownstone 3 - Near PRATT",
+                "host_id": 50148,
+                "host_name": "Adreinne",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Bedford-Stuyvesant",
+                "room_type": "Entire home/apt",
+                "price": 110,
+                "minimum_nights": 7,
+                "number_of_reviews": 61,
+                "last_review": "2019-05-25",
+                "reviews_per_month": 0.52,
+                "calculated_host_listings_count": 1,
+                "availability_365": 265
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9409, 40.68554]
+            },
+            "properties": {
+                "id": 13050,
+                "name": "bright and stylish duplex",
+                "host_id": 50846,
+                "host_name": "Jennifer",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Bedford-Stuyvesant",
+                "room_type": "Entire home/apt",
+                "price": 115,
+                "minimum_nights": 3,
+                "number_of_reviews": 11,
+                "last_review": "2017-01-01",
+                "reviews_per_month": 0.1,
+                "calculated_host_listings_count": 1,
+                "availability_365": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.97376, 40.69142]
+            },
+            "properties": {
+                "id": 13394,
+                "name": "Fort Greene brownstone ",
+                "host_id": 52335,
+                "host_name": "Alexander",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Fort Greene",
+                "room_type": "Private room",
+                "price": 80,
+                "minimum_nights": 3,
+                "number_of_reviews": 135,
+                "last_review": "2019-06-17",
+                "reviews_per_month": 1.16,
+                "calculated_host_listings_count": 2,
+                "availability_365": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.93934, 40.68043]
+            },
+            "properties": {
+                "id": 13808,
+                "name": "Blue Room for 2 in Brownstone for $1350 monthly",
+                "host_id": 54275,
+                "host_name": "JT And Tiziana",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Bedford-Stuyvesant",
+                "room_type": "Private room",
+                "price": 80,
+                "minimum_nights": 1,
+                "number_of_reviews": 112,
+                "last_review": "2019-06-16",
+                "reviews_per_month": 1.01,
+                "calculated_host_listings_count": 3,
+                "availability_365": 251
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.97008, 40.78635]
+            },
+            "properties": {
+                "id": 14287,
+                "name": "Cozy 1BD on Central Park West in New York City",
+                "host_id": 56094,
+                "host_name": "Joya",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Upper West Side",
+                "room_type": "Entire home/apt",
+                "price": 151,
+                "minimum_nights": 2,
+                "number_of_reviews": 73,
+                "last_review": "2019-07-07",
+                "reviews_per_month": 0.63,
+                "calculated_host_listings_count": 1,
+                "availability_365": 302
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9356, 40.7042]
+            },
+            "properties": {
+                "id": 14290,
+                "name": "* ORIGINAL BROOKLYN LOFT *",
+                "host_id": 56104,
+                "host_name": "James",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Williamsburg",
+                "room_type": "Entire home/apt",
+                "price": 228,
+                "minimum_nights": 3,
+                "number_of_reviews": 82,
+                "last_review": "2019-05-17",
+                "reviews_per_month": 0.7,
+                "calculated_host_listings_count": 1,
+                "availability_365": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.95392, 40.73506]
+            },
+            "properties": {
+                "id": 14314,
+                "name": "Greenpoint Place...Has It All! ",
+                "host_id": 56246,
+                "host_name": "Jeanne",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Greenpoint",
+                "room_type": "Entire home/apt",
+                "price": 144,
+                "minimum_nights": 2,
+                "number_of_reviews": 328,
+                "last_review": "2019-06-29",
+                "reviews_per_month": 2.82,
+                "calculated_host_listings_count": 1,
+                "availability_365": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98074, 40.73961]
+            },
+            "properties": {
+                "id": 14322,
+                "name": "Beautiful Apartment in Manhattan!!!",
+                "host_id": 56284,
+                "host_name": "Francesca",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Kips Bay",
+                "room_type": "Entire home/apt",
+                "price": 200,
+                "minimum_nights": 7,
+                "number_of_reviews": 19,
+                "last_review": "2019-03-25",
+                "reviews_per_month": 0.22,
+                "calculated_host_listings_count": 1,
+                "availability_365": 257
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9593, 40.70881]
+            },
+            "properties": {
+                "id": 14377,
+                "name": "Williamsburg 1 bedroom Apartment",
+                "host_id": 56512,
+                "host_name": "Joanna",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Williamsburg",
+                "room_type": "Entire home/apt",
+                "price": 150,
+                "minimum_nights": 30,
+                "number_of_reviews": 105,
+                "last_review": "2019-06-22",
+                "reviews_per_month": 0.9,
+                "calculated_host_listings_count": 1,
+                "availability_365": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.99104, 40.72004]
+            },
+            "properties": {
+                "id": 14991,
+                "name": "Great Location, Manhattan Bedroom!",
+                "host_id": 59023,
+                "host_name": "Bianca",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Lower East Side",
+                "room_type": "Private room",
+                "price": 110,
+                "minimum_nights": 5,
+                "number_of_reviews": 19,
+                "last_review": "2019-05-18",
+                "reviews_per_month": 0.17,
+                "calculated_host_listings_count": 1,
+                "availability_365": 301
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.99293, 40.75531]
+            },
+            "properties": {
+                "id": 15220,
+                "name": "Best Location in NYC! TIMES SQUARE!",
+                "host_id": 59734,
+                "host_name": "Luiz",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Hell's Kitchen",
+                "room_type": "Private room",
+                "price": 69,
+                "minimum_nights": 2,
+                "number_of_reviews": 289,
+                "last_review": "2019-06-09",
+                "reviews_per_month": 2.49,
+                "calculated_host_listings_count": 2,
+                "availability_365": 294
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.93788, 40.72401]
+            },
+            "properties": {
+                "id": 15338,
+                "name": "Room in Greenpoint Loft w/ Roof",
+                "host_id": 32169,
+                "host_name": "Andrea",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Greenpoint",
+                "room_type": "Private room",
+                "price": 49,
+                "minimum_nights": 4,
+                "number_of_reviews": 138,
+                "last_review": "2019-06-04",
+                "reviews_per_month": 1.19,
+                "calculated_host_listings_count": 3,
+                "availability_365": 320
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.99775, 40.7221]
+            },
+            "properties": {
+                "id": 15341,
+                "name": "**Bright Nolita Apt w Doorman/Elevators/Gym**",
+                "host_id": 60049,
+                "host_name": "Ted",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "SoHo",
+                "room_type": "Entire home/apt",
+                "price": 180,
+                "minimum_nights": 30,
+                "number_of_reviews": 21,
+                "last_review": "2019-06-29",
+                "reviews_per_month": 0.3,
+                "calculated_host_listings_count": 1,
+                "availability_365": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.96204, 40.71185]
+            },
+            "properties": {
+                "id": 15385,
+                "name": "Very, very cozy place",
+                "host_id": 60252,
+                "host_name": "Cristina",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Williamsburg",
+                "room_type": "Private room",
+                "price": 80,
+                "minimum_nights": 2,
+                "number_of_reviews": 42,
+                "last_review": "2019-06-30",
+                "reviews_per_month": 0.38,
+                "calculated_host_listings_count": 1,
+                "availability_365": 263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9953, 40.74623]
+            },
+            "properties": {
+                "id": 15396,
+                "name": "Sunny & Spacious Chelsea Apartment",
+                "host_id": 60278,
+                "host_name": "Petra",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Chelsea",
+                "room_type": "Entire home/apt",
+                "price": 375,
+                "minimum_nights": 180,
+                "number_of_reviews": 5,
+                "last_review": "2018-11-03",
+                "reviews_per_month": 0.12,
+                "calculated_host_listings_count": 1,
+                "availability_365": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.95269, 40.77065]
+            },
+            "properties": {
+                "id": 15711,
+                "name": "2 bedroom - Upper East Side-great for kids",
+                "host_id": 61491,
+                "host_name": "D",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Upper East Side",
+                "room_type": "Entire home/apt",
+                "price": 250,
+                "minimum_nights": 2,
+                "number_of_reviews": 66,
+                "last_review": "2019-03-30",
+                "reviews_per_month": 0.57,
+                "calculated_host_listings_count": 2,
+                "availability_365": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.96428, 40.67811]
+            },
+            "properties": {
+                "id": 16326,
+                "name": "Comfortable 4-bedroom apt in family house.",
+                "host_id": 63588,
+                "host_name": "Dimitri",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Prospect Heights",
+                "room_type": "Entire home/apt",
+                "price": 200,
+                "minimum_nights": 30,
+                "number_of_reviews": 143,
+                "last_review": "2019-01-26",
+                "reviews_per_month": 1.33,
+                "calculated_host_listings_count": 2,
+                "availability_365": 297
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.96788, 40.69]
+            },
+            "properties": {
+                "id": 16338,
+                "name": "Double Room w Private Deck Clinton Hill Best Area",
+                "host_id": 63613,
+                "host_name": "Patricia",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Clinton Hill",
+                "room_type": "Private room",
+                "price": 55,
+                "minimum_nights": 7,
+                "number_of_reviews": 27,
+                "last_review": "2017-09-30",
+                "reviews_per_month": 0.23,
+                "calculated_host_listings_count": 2,
+                "availability_365": 292
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.99119, 40.75979]
+            },
+            "properties": {
+                "id": 16421,
+                "name": "Your Heaven in Hells Kitchen",
+                "host_id": 63924,
+                "host_name": "Mark",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Hell's Kitchen",
+                "room_type": "Private room",
+                "price": 52,
+                "minimum_nights": 30,
+                "number_of_reviews": 191,
+                "last_review": "2019-05-16",
+                "reviews_per_month": 1.65,
+                "calculated_host_listings_count": 1,
+                "availability_365": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98338, 40.67343]
+            },
+            "properties": {
+                "id": 16458,
+                "name": "Light-filled 2B duplex in the heart of Park Slope!",
+                "host_id": 64056,
+                "host_name": "Sara",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Park Slope",
+                "room_type": "Entire home/apt",
+                "price": 225,
+                "minimum_nights": 3,
+                "number_of_reviews": 4,
+                "last_review": "2017-09-24",
+                "reviews_per_month": 0.16,
+                "calculated_host_listings_count": 1,
+                "availability_365": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.97904, 40.72649]
+            },
+            "properties": {
+                "id": 16580,
+                "name": "Sunny, Modern room in East Village!",
+                "host_id": 64442,
+                "host_name": "Reka",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "East Village",
+                "room_type": "Private room",
+                "price": 80,
+                "minimum_nights": 1,
+                "number_of_reviews": 338,
+                "last_review": "2019-07-01",
+                "reviews_per_month": 4.72,
+                "calculated_host_listings_count": 2,
+                "availability_365": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.96792, 40.70933]
+            },
+            "properties": {
+                "id": 16595,
+                "name": "*HAVEN LOFT - Entire Floor - Six Windows - Bricks*",
+                "host_id": 64522,
+                "host_name": "Daniel",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Williamsburg",
+                "room_type": "Entire home/apt",
+                "price": 275,
+                "minimum_nights": 1,
+                "number_of_reviews": 148,
+                "last_review": "2019-06-23",
+                "reviews_per_month": 1.4,
+                "calculated_host_listings_count": 1,
+                "availability_365": 362
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98474, 40.72298]
+            },
+            "properties": {
+                "id": 16821,
+                "name": "Large Room in Amazing East Village Apt",
+                "host_id": 4396,
+                "host_name": "Casey",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "East Village",
+                "room_type": "Private room",
+                "price": 99,
+                "minimum_nights": 1,
+                "number_of_reviews": 106,
+                "last_review": "2019-06-21",
+                "reviews_per_month": 1.26,
+                "calculated_host_listings_count": 2,
+                "availability_365": 336
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.93922, 40.80164]
+            },
+            "properties": {
+                "id": 16974,
+                "name": "SpaHa Loft: Enormous and Bright",
+                "host_id": 65837,
+                "host_name": "Robin",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "East Harlem",
+                "room_type": "Entire home/apt",
+                "price": 225,
+                "minimum_nights": 4,
+                "number_of_reviews": 190,
+                "last_review": "2019-06-23",
+                "reviews_per_month": 1.64,
+                "calculated_host_listings_count": 1,
+                "availability_365": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98008, 40.72162]
+            },
+            "properties": {
+                "id": 17037,
+                "name": "Lovely EV Artist's Home",
+                "host_id": 66035,
+                "host_name": "Anna",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "East Village",
+                "room_type": "Entire home/apt",
+                "price": 230,
+                "minimum_nights": 9,
+                "number_of_reviews": 49,
+                "last_review": "2018-05-14",
+                "reviews_per_month": 0.43,
+                "calculated_host_listings_count": 1,
+                "availability_365": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98865, 40.76342]
+            },
+            "properties": {
+                "id": 17092,
+                "name": "Cool Room in Hell's Kitchen",
+                "host_id": 66243,
+                "host_name": "Enzo",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Hell's Kitchen",
+                "room_type": "Private room",
+                "price": 51,
+                "minimum_nights": 7,
+                "number_of_reviews": 23,
+                "last_review": "2019-06-01",
+                "reviews_per_month": 0.43,
+                "calculated_host_listings_count": 1,
+                "availability_365": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.94095, 40.83139]
+            },
+            "properties": {
+                "id": 17693,
+                "name": "HARLEM, NEW YORK WELCOMES YOU!!",
+                "host_id": 68428,
+                "host_name": "Tye And Etienne",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Washington Heights",
+                "room_type": "Private room",
+                "price": 65,
+                "minimum_nights": 2,
+                "number_of_reviews": 49,
+                "last_review": "2019-06-18",
+                "reviews_per_month": 1.6,
+                "calculated_host_listings_count": 2,
+                "availability_365": 336
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.96374, 40.68346]
+            },
+            "properties": {
+                "id": 17747,
+                "name": "BLUE TRIM GUEST HOUSE",
+                "host_id": 68599,
+                "host_name": "George",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Clinton Hill",
+                "room_type": "Private room",
+                "price": 105,
+                "minimum_nights": 2,
+                "number_of_reviews": 105,
+                "last_review": "2019-06-26",
+                "reviews_per_month": 0.92,
+                "calculated_host_listings_count": 1,
+                "availability_365": 304
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98801, 40.72828]
+            },
+            "properties": {
+                "id": 18127,
+                "name": "Charming East Village One Bedroom Flat",
+                "host_id": 69829,
+                "host_name": "Josh",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "East Village",
+                "room_type": "Entire home/apt",
+                "price": 190,
+                "minimum_nights": 5,
+                "number_of_reviews": 21,
+                "last_review": "2019-01-02",
+                "reviews_per_month": 0.2,
+                "calculated_host_listings_count": 1,
+                "availability_365": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.95058, 40.76865]
+            },
+            "properties": {
+                "id": 18152,
+                "name": "Manhattan Room",
+                "host_id": 69942,
+                "host_name": "Victoria",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Upper East Side",
+                "room_type": "Private room",
+                "price": 200,
+                "minimum_nights": 1,
+                "number_of_reviews": 142,
+                "last_review": "2019-07-06",
+                "reviews_per_month": 1.5,
+                "calculated_host_listings_count": 1,
+                "availability_365": 322
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.90334, 40.75038]
+            },
+            "properties": {
+                "id": 18198,
+                "name": "Little King of Queens",
+                "host_id": 70091,
+                "host_name": "Justin",
+                "neighbourhood_group": "Queens",
+                "neighbourhood": "Woodside",
+                "room_type": "Private room",
+                "price": 70,
+                "minimum_nights": 30,
+                "number_of_reviews": 25,
+                "last_review": "2019-05-31",
+                "reviews_per_month": 0.22,
+                "calculated_host_listings_count": 1,
+                "availability_365": 324
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.97267, 40.6932]
+            },
+            "properties": {
+                "id": 18590,
+                "name": "Fort Greene Retreat on the Park",
+                "host_id": 71512,
+                "host_name": "Blaise",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Fort Greene",
+                "room_type": "Private room",
+                "price": 95,
+                "minimum_nights": 3,
+                "number_of_reviews": 143,
+                "last_review": "2019-06-16",
+                "reviews_per_month": 1.28,
+                "calculated_host_listings_count": 1,
+                "availability_365": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.00197, 40.74138]
+            },
+            "properties": {
+                "id": 18728,
+                "name": "Beautiful Meatpacking District Loft",
+                "host_id": 71876,
+                "host_name": "DAVID And RICK",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Chelsea",
+                "room_type": "Private room",
+                "price": 150,
+                "minimum_nights": 3,
+                "number_of_reviews": 167,
+                "last_review": "2019-05-28",
+                "reviews_per_month": 1.65,
+                "calculated_host_listings_count": 1,
+                "availability_365": 295
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.96112, 40.71154]
+            },
+            "properties": {
+                "id": 18764,
+                "name": "Cozy 2 BR in Williamsburg ",
+                "host_id": 72014,
+                "host_name": "Lulú",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Williamsburg",
+                "room_type": "Private room",
+                "price": 145,
+                "minimum_nights": 3,
+                "number_of_reviews": 61,
+                "last_review": "2019-04-22",
+                "reviews_per_month": 0.54,
+                "calculated_host_listings_count": 4,
+                "availability_365": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.95136, 40.82915]
+            },
+            "properties": {
+                "id": 19159,
+                "name": "Spacious luminous apt Upper West NYC",
+                "host_id": 73051,
+                "host_name": "Sybilla",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Harlem",
+                "room_type": "Entire home/apt",
+                "price": 110,
+                "minimum_nights": 31,
+                "number_of_reviews": 54,
+                "last_review": "2019-03-23",
+                "reviews_per_month": 0.49,
+                "calculated_host_listings_count": 1,
+                "availability_365": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98892, 40.71851]
+            },
+            "properties": {
+                "id": 19169,
+                "name": "Entire 2 Bedroom - Large & Sunny",
+                "host_id": 73128,
+                "host_name": "JoLynn",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Lower East Side",
+                "room_type": "Entire home/apt",
+                "price": 285,
+                "minimum_nights": 5,
+                "number_of_reviews": 70,
+                "last_review": "2019-06-30",
+                "reviews_per_month": 0.62,
+                "calculated_host_listings_count": 1,
+                "availability_365": 328
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.96323, 40.65401]
+            },
+            "properties": {
+                "id": 19282,
+                "name": "Sunny, Spacious Top Floor Haven",
+                "host_id": 73469,
+                "host_name": "Gaia",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Flatbush",
+                "room_type": "Entire home/apt",
+                "price": 130,
+                "minimum_nights": 6,
+                "number_of_reviews": 16,
+                "last_review": "2019-06-15",
+                "reviews_per_month": 0.15,
+                "calculated_host_listings_count": 1,
+                "availability_365": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98794, 40.7114]
+            },
+            "properties": {
+                "id": 19319,
+                "name": "Private room Great Deal at Lower East Side",
+                "host_id": 44263,
+                "host_name": "Ana",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Lower East Side",
+                "room_type": "Private room",
+                "price": 94,
+                "minimum_nights": 30,
+                "number_of_reviews": 94,
+                "last_review": "2019-04-08",
+                "reviews_per_month": 0.84,
+                "calculated_host_listings_count": 1,
+                "availability_365": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.99268, 40.69723]
+            },
+            "properties": {
+                "id": 19601,
+                "name": "perfect for a family or small group",
+                "host_id": 74303,
+                "host_name": "Maggie",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Brooklyn Heights",
+                "room_type": "Entire home/apt",
+                "price": 800,
+                "minimum_nights": 1,
+                "number_of_reviews": 25,
+                "last_review": "2016-08-04",
+                "reviews_per_month": 0.24,
+                "calculated_host_listings_count": 1,
+                "availability_365": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.95748, 40.71833]
+            },
+            "properties": {
+                "id": 19812,
+                "name": "2 bedroom Williamsburg Apt - Bedford L stop",
+                "host_id": 74857,
+                "host_name": "Starlee",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Williamsburg",
+                "room_type": "Entire home/apt",
+                "price": 105,
+                "minimum_nights": 3,
+                "number_of_reviews": 61,
+                "last_review": "2018-08-09",
+                "reviews_per_month": 0.53,
+                "calculated_host_listings_count": 1,
+                "availability_365": 272
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9844, 40.72334]
+            },
+            "properties": {
+                "id": 20299,
+                "name": "Oh glorious spring!",
+                "host_id": 62407,
+                "host_name": "Edward",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "East Village",
+                "room_type": "Private room",
+                "price": 60,
+                "minimum_nights": 3,
+                "number_of_reviews": 194,
+                "last_review": "2019-06-30",
+                "reviews_per_month": 1.73,
+                "calculated_host_listings_count": 1,
+                "availability_365": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98057, 40.72912]
+            },
+            "properties": {
+                "id": 20300,
+                "name": "Great Location for NYC",
+                "host_id": 76627,
+                "host_name": "Pas",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "East Village",
+                "room_type": "Private room",
+                "price": 50,
+                "minimum_nights": 1,
+                "number_of_reviews": 2,
+                "last_review": "2016-02-14",
+                "reviews_per_month": 0.05,
+                "calculated_host_listings_count": 1,
+                "availability_365": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.96218, 40.71156]
+            },
+            "properties": {
+                "id": 20611,
+                "name": "Cozy Bedroom in Williamsburg 3 BR",
+                "host_id": 72014,
+                "host_name": "Lulú",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Williamsburg",
+                "room_type": "Private room",
+                "price": 85,
+                "minimum_nights": 3,
+                "number_of_reviews": 174,
+                "last_review": "2019-06-22",
+                "reviews_per_month": 1.54,
+                "calculated_host_listings_count": 4,
+                "availability_365": 288
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9383, 40.70032]
+            },
+            "properties": {
+                "id": 20724,
+                "name": "Sunny room+Pvte office in huge loft",
+                "host_id": 961342,
+                "host_name": "Augustin",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Bushwick",
+                "room_type": "Private room",
+                "price": 65,
+                "minimum_nights": 4,
+                "number_of_reviews": 24,
+                "last_review": "2019-05-26",
+                "reviews_per_month": 0.28,
+                "calculated_host_listings_count": 1,
+                "availability_365": 317
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.97261, 40.68233]
+            },
+            "properties": {
+                "id": 20734,
+                "name": "Spacious Prospect Heights Apartment",
+                "host_id": 78460,
+                "host_name": "Sean & Lynette",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Prospect Heights",
+                "room_type": "Entire home/apt",
+                "price": 131,
+                "minimum_nights": 4,
+                "number_of_reviews": 166,
+                "last_review": "2019-06-27",
+                "reviews_per_month": 3.4,
+                "calculated_host_listings_count": 1,
+                "availability_365": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.966, 40.68634]
+            },
+            "properties": {
+                "id": 20755,
+                "name": "Large Parlor Room, Landmark Home 1 block to PRATT",
+                "host_id": 51038,
+                "host_name": "Erica",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Clinton Hill",
+                "room_type": "Private room",
+                "price": 98,
+                "minimum_nights": 7,
+                "number_of_reviews": 16,
+                "last_review": "2019-05-31",
+                "reviews_per_month": 0.2,
+                "calculated_host_listings_count": 6,
+                "availability_365": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.97162, 40.68035]
+            },
+            "properties": {
+                "id": 20853,
+                "name": "2-bed brownstone duplex + garden",
+                "host_id": 79070,
+                "host_name": "Tracy",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Prospect Heights",
+                "room_type": "Entire home/apt",
+                "price": 250,
+                "minimum_nights": 7,
+                "number_of_reviews": 21,
+                "last_review": "2019-05-21",
+                "reviews_per_month": 0.3,
+                "calculated_host_listings_count": 1,
+                "availability_365": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.95775, 40.70984]
+            },
+            "properties": {
+                "id": 20913,
+                "name": "Charming 1 bed GR8 WBurg LOCATION!",
+                "host_id": 79402,
+                "host_name": "Christiana",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Williamsburg",
+                "room_type": "Entire home/apt",
+                "price": 100,
+                "minimum_nights": 5,
+                "number_of_reviews": 168,
+                "last_review": "2018-07-22",
+                "reviews_per_month": 1.57,
+                "calculated_host_listings_count": 1,
+                "availability_365": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.92609, 40.70093]
+            },
+            "properties": {
+                "id": 21293,
+                "name": "Sunny Apartment in Artist Home",
+                "host_id": 44145,
+                "host_name": "Tyrome",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Bushwick",
+                "room_type": "Entire home/apt",
+                "price": 105,
+                "minimum_nights": 3,
+                "number_of_reviews": 118,
+                "last_review": "2019-06-18",
+                "reviews_per_month": 1.05,
+                "calculated_host_listings_count": 2,
+                "availability_365": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.96177, 40.79764]
+            },
+            "properties": {
+                "id": 21456,
+                "name": "Light-filled classic Central Park ",
+                "host_id": 42032,
+                "host_name": "Dana",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Upper West Side",
+                "room_type": "Entire home/apt",
+                "price": 140,
+                "minimum_nights": 3,
+                "number_of_reviews": 81,
+                "last_review": "2019-07-07",
+                "reviews_per_month": 0.71,
+                "calculated_host_listings_count": 1,
+                "availability_365": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.94731, 40.82803]
+            },
+            "properties": {
+                "id": 21644,
+                "name": "Upper Manhattan, New York",
+                "host_id": 82685,
+                "host_name": "Elliott",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Harlem",
+                "room_type": "Private room",
+                "price": 89,
+                "minimum_nights": 1,
+                "number_of_reviews": 1,
+                "last_review": "2018-10-09",
+                "reviews_per_month": 0.11,
+                "calculated_host_listings_count": 1,
+                "availability_365": 365
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.00271, 40.74008]
+            },
+            "properties": {
+                "id": 21794,
+                "name": "COZY QUIET room 4 DOOGLERS!",
+                "host_id": 83257,
+                "host_name": "Olan",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Chelsea",
+                "room_type": "Private room",
+                "price": 98,
+                "minimum_nights": 30,
+                "number_of_reviews": 30,
+                "last_review": "2019-05-01",
+                "reviews_per_month": 0.27,
+                "calculated_host_listings_count": 2,
+                "availability_365": 364
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.92357, 40.68413]
+            },
+            "properties": {
+                "id": 22911,
+                "name": "The Stuydio Modern and Light Filled",
+                "host_id": 87773,
+                "host_name": "Shelly",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Bedford-Stuyvesant",
+                "room_type": "Entire home/apt",
+                "price": 125,
+                "minimum_nights": 7,
+                "number_of_reviews": 139,
+                "last_review": "2018-10-28",
+                "reviews_per_month": 1.23,
+                "calculated_host_listings_count": 2,
+                "availability_365": 311
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.95139, 40.82279]
+            },
+            "properties": {
+                "id": 22918,
+                "name": "loft bed - near transportation-15min to times sq",
+                "host_id": 32294,
+                "host_name": "Ssameer Or Trip",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Harlem",
+                "room_type": "Private room",
+                "price": 60,
+                "minimum_nights": 3,
+                "number_of_reviews": 11,
+                "last_review": "2019-01-03",
+                "reviews_per_month": 0.87,
+                "calculated_host_listings_count": 3,
+                "availability_365": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.00154, 40.67967]
+            },
+            "properties": {
+                "id": 23135,
+                "name": "House On Henry (3rd FLR Suite)",
+                "host_id": 11481,
+                "host_name": "Annette",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Carroll Gardens",
+                "room_type": "Entire home/apt",
+                "price": 175,
+                "minimum_nights": 2,
+                "number_of_reviews": 233,
+                "last_review": "2019-06-24",
+                "reviews_per_month": 2.09,
+                "calculated_host_listings_count": 3,
+                "availability_365": 342
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.94281, 40.83927]
+            },
+            "properties": {
+                "id": 23501,
+                "name": "Monkey Retreat Manhattan",
+                "host_id": 63318,
+                "host_name": "Meka",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Washington Heights",
+                "room_type": "Private room",
+                "price": 65,
+                "minimum_nights": 2,
+                "number_of_reviews": 68,
+                "last_review": "2012-11-01",
+                "reviews_per_month": 0.6,
+                "calculated_host_listings_count": 1,
+                "availability_365": 312
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.00319, 40.73096]
+            },
+            "properties": {
+                "id": 23686,
+                "name": "2000 SF 3br 2bath West Village private  townhouse",
+                "host_id": 93790,
+                "host_name": "Ann",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "West Village",
+                "room_type": "Entire home/apt",
+                "price": 500,
+                "minimum_nights": 4,
+                "number_of_reviews": 46,
+                "last_review": "2019-05-18",
+                "reviews_per_month": 0.55,
+                "calculated_host_listings_count": 2,
+                "availability_365": 243
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.94177, 40.71332]
+            },
+            "properties": {
+                "id": 24143,
+                "name": "Williamsburg—Steps To Subway, Private Bath&Balcony",
+                "host_id": 97219,
+                "host_name": "Seth",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Williamsburg",
+                "room_type": "Private room",
+                "price": 101,
+                "minimum_nights": 3,
+                "number_of_reviews": 335,
+                "last_review": "2019-05-29",
+                "reviews_per_month": 3.02,
+                "calculated_host_listings_count": 1,
+                "availability_365": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98109, 40.66941]
+            },
+            "properties": {
+                "id": 24285,
+                "name": "Beautiful Duplex Apartment",
+                "host_id": 97797,
+                "host_name": "Brenda",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Park Slope",
+                "room_type": "Entire home/apt",
+                "price": 220,
+                "minimum_nights": 30,
+                "number_of_reviews": 88,
+                "last_review": "2018-11-02",
+                "reviews_per_month": 0.79,
+                "calculated_host_listings_count": 1,
+                "availability_365": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.92377, 40.68373]
+            },
+            "properties": {
+                "id": 25235,
+                "name": "Large 2 Bedroom Great for Groups!",
+                "host_id": 87773,
+                "host_name": "Shelly",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Bedford-Stuyvesant",
+                "room_type": "Entire home/apt",
+                "price": 125,
+                "minimum_nights": 90,
+                "number_of_reviews": 162,
+                "last_review": "2019-06-28",
+                "reviews_per_month": 1.46,
+                "calculated_host_listings_count": 2,
+                "availability_365": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.94844, 40.71459]
+            },
+            "properties": {
+                "id": 25406,
+                "name": "Modern Brooklyn Apt., August sublet",
+                "host_id": 105538,
+                "host_name": "Erik",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Williamsburg",
+                "room_type": "Entire home/apt",
+                "price": 80,
+                "minimum_nights": 30,
+                "number_of_reviews": 29,
+                "last_review": "2018-05-26",
+                "reviews_per_month": 0.4,
+                "calculated_host_listings_count": 1,
+                "availability_365": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.94421, 40.8092]
+            },
+            "properties": {
+                "id": 25696,
+                "name": "1,800 sq foot in luxury building",
+                "host_id": 107628,
+                "host_name": "Dena",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Harlem",
+                "room_type": "Private room",
+                "price": 100,
+                "minimum_nights": 2,
+                "number_of_reviews": 170,
+                "last_review": "2019-06-23",
+                "reviews_per_month": 1.61,
+                "calculated_host_listings_count": 1,
+                "availability_365": 346
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98989, 40.68157]
+            },
+            "properties": {
+                "id": 26012,
+                "name": "Sunny 2-story Brooklyn townhouse w deck and garden",
+                "host_id": 109589,
+                "host_name": "Jessica",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Gowanus",
+                "room_type": "Entire home/apt",
+                "price": 200,
+                "minimum_nights": 30,
+                "number_of_reviews": 19,
+                "last_review": "2017-03-17",
+                "reviews_per_month": 0.2,
+                "calculated_host_listings_count": 1,
+                "availability_365": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.99291, 40.75527]
+            },
+            "properties": {
+                "id": 26362,
+                "name": "Times Square, Safe, Clean and Cozy!",
+                "host_id": 59734,
+                "host_name": "Luiz",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Hell's Kitchen",
+                "room_type": "Private room",
+                "price": 59,
+                "minimum_nights": 2,
+                "number_of_reviews": 334,
+                "last_review": "2019-06-16",
+                "reviews_per_month": 3,
+                "calculated_host_listings_count": 2,
+                "availability_365": 279
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.96572, 40.68698]
+            },
+            "properties": {
+                "id": 26520,
+                "name": "Cozy Room #3, Landmark Home 1 Block to PRATT",
+                "host_id": 51038,
+                "host_name": "Erica",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Clinton Hill",
+                "room_type": "Private room",
+                "price": 125,
+                "minimum_nights": 2,
+                "number_of_reviews": 19,
+                "last_review": "2019-06-02",
+                "reviews_per_month": 0.2,
+                "calculated_host_listings_count": 6,
+                "availability_365": 250
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98192, 40.7288]
+            },
+            "properties": {
+                "id": 26559,
+                "name": "Beautiful Apartment East Village",
+                "host_id": 112793,
+                "host_name": "Sally",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "East Village",
+                "room_type": "Entire home/apt",
+                "price": 140,
+                "minimum_nights": 7,
+                "number_of_reviews": 12,
+                "last_review": "2017-12-11",
+                "reviews_per_month": 0.13,
+                "calculated_host_listings_count": 1,
+                "availability_365": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98912, 40.66853]
+            },
+            "properties": {
+                "id": 26785,
+                "name": "Park Slope Green Guest House",
+                "host_id": 42273,
+                "host_name": "Dani",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "South Slope",
+                "room_type": "Entire home/apt",
+                "price": 120,
+                "minimum_nights": 30,
+                "number_of_reviews": 467,
+                "last_review": "2018-12-30",
+                "reviews_per_month": 4.22,
+                "calculated_host_listings_count": 2,
+                "availability_365": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98157, 40.7254]
+            },
+            "properties": {
+                "id": 26933,
+                "name": "2 BR / 2 Bath Duplex Apt with patio! East Village",
+                "host_id": 72062,
+                "host_name": "Bruce",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "East Village",
+                "room_type": "Entire home/apt",
+                "price": 350,
+                "minimum_nights": 2,
+                "number_of_reviews": 7,
+                "last_review": "2017-08-09",
+                "reviews_per_month": 0.06,
+                "calculated_host_listings_count": 4,
+                "availability_365": 298
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98009, 40.74294]
+            },
+            "properties": {
+                "id": 26954,
+                "name": "NYC fabulous views Manhattan's eye",
+                "host_id": 115157,
+                "host_name": "Nimo",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Kips Bay",
+                "room_type": "Entire home/apt",
+                "price": 199,
+                "minimum_nights": 5,
+                "number_of_reviews": 38,
+                "last_review": "2015-12-02",
+                "reviews_per_month": 0.38,
+                "calculated_host_listings_count": 1,
+                "availability_365": 260
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.95748, 40.71942]
+            },
+            "properties": {
+                "id": 26969,
+                "name": "2 story family home in Williamsburg",
+                "host_id": 115307,
+                "host_name": "Alexandra",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Williamsburg",
+                "room_type": "Entire home/apt",
+                "price": 325,
+                "minimum_nights": 3,
+                "number_of_reviews": 324,
+                "last_review": "2019-06-23",
+                "reviews_per_month": 3.01,
+                "calculated_host_listings_count": 1,
+                "availability_365": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.97637, 40.77823]
+            },
+            "properties": {
+                "id": 27006,
+                "name": "Comfortable UWS 2-BD Family-Friendly Brownstone",
+                "host_id": 115560,
+                "host_name": "Stacy",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Upper West Side",
+                "room_type": "Entire home/apt",
+                "price": 235,
+                "minimum_nights": 6,
+                "number_of_reviews": 27,
+                "last_review": "2019-04-27",
+                "reviews_per_month": 0.27,
+                "calculated_host_listings_count": 1,
+                "availability_365": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.97965, 40.72555]
+            },
+            "properties": {
+                "id": 27385,
+                "name": "Great Large 1 BR apt  in East Village!",
+                "host_id": 72062,
+                "host_name": "Bruce",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "East Village",
+                "room_type": "Entire home/apt",
+                "price": 225,
+                "minimum_nights": 1,
+                "number_of_reviews": 115,
+                "last_review": "2019-06-07",
+                "reviews_per_month": 1.05,
+                "calculated_host_listings_count": 4,
+                "availability_365": 299
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98604, 40.66831]
+            },
+            "properties": {
+                "id": 27531,
+                "name": "Eveland Private Bed & Living Room w/ Own Entrance",
+                "host_id": 118971,
+                "host_name": "Evelyn",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "South Slope",
+                "room_type": "Private room",
+                "price": 99,
+                "minimum_nights": 2,
+                "number_of_reviews": 354,
+                "last_review": "2019-05-20",
+                "reviews_per_month": 3.2,
+                "calculated_host_listings_count": 3,
+                "availability_365": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.94919, 40.82754]
+            },
+            "properties": {
+                "id": 27644,
+                "name": "Sugar Hill Rest Stop ",
+                "host_id": 119510,
+                "host_name": "Emma",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Harlem",
+                "room_type": "Entire home/apt",
+                "price": 170,
+                "minimum_nights": 2,
+                "number_of_reviews": 195,
+                "last_review": "2019-07-01",
+                "reviews_per_month": 2.03,
+                "calculated_host_listings_count": 1,
+                "availability_365": 318
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.97925, 40.66499]
+            },
+            "properties": {
+                "id": 27659,
+                "name": "3 Story Town House in Park Slope",
+                "host_id": 119588,
+                "host_name": "Vero",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "South Slope",
+                "room_type": "Entire home/apt",
+                "price": 400,
+                "minimum_nights": 2,
+                "number_of_reviews": 16,
+                "last_review": "2018-12-30",
+                "reviews_per_month": 0.24,
+                "calculated_host_listings_count": 2,
+                "availability_365": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.97556, 40.77842]
+            },
+            "properties": {
+                "id": 27759,
+                "name": "apartment next to Central park",
+                "host_id": 119900,
+                "host_name": "Sylvie",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Upper West Side",
+                "room_type": "Entire home/apt",
+                "price": 170,
+                "minimum_nights": 7,
+                "number_of_reviews": 13,
+                "last_review": "2019-06-26",
+                "reviews_per_month": 0.12,
+                "calculated_host_listings_count": 1,
+                "availability_365": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98527, 40.72245]
+            },
+            "properties": {
+                "id": 27883,
+                "name": "East Village Sanctuary",
+                "host_id": 120223,
+                "host_name": "Jen",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "East Village",
+                "room_type": "Entire home/apt",
+                "price": 100,
+                "minimum_nights": 4,
+                "number_of_reviews": 25,
+                "last_review": "2011-12-10",
+                "reviews_per_month": 0.23,
+                "calculated_host_listings_count": 1,
+                "availability_365": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.96053, 40.65593]
+            },
+            "properties": {
+                "id": 28321,
+                "name": "Large 1  BR in a 3 BR Brooklyn apt. next to Q Trn.",
+                "host_id": 65091,
+                "host_name": "Kay",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Prospect-Lefferts Gardens",
+                "room_type": "Private room",
+                "price": 75,
+                "minimum_nights": 2,
+                "number_of_reviews": 9,
+                "last_review": "2018-10-05",
+                "reviews_per_month": 0.08,
+                "calculated_host_listings_count": 1,
+                "availability_365": 324
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.96468, 40.71923]
+            },
+            "properties": {
+                "id": 28396,
+                "name": "Modern Apt with Spectacular Views",
+                "host_id": 6197784,
+                "host_name": "Jo",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Williamsburg",
+                "room_type": "Private room",
+                "price": 90,
+                "minimum_nights": 1,
+                "number_of_reviews": 9,
+                "last_review": "2011-09-18",
+                "reviews_per_month": 0.08,
+                "calculated_host_listings_count": 1,
+                "availability_365": 245
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.94822, 40.778]
+            },
+            "properties": {
+                "id": 28907,
+                "name": "Garden studio in the Upper East Sid",
+                "host_id": 124352,
+                "host_name": "Lisa",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Upper East Side",
+                "room_type": "Entire home/apt",
+                "price": 150,
+                "minimum_nights": 5,
+                "number_of_reviews": 21,
+                "last_review": "2017-08-15",
+                "reviews_per_month": 0.19,
+                "calculated_host_listings_count": 1,
+                "availability_365": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.93128, 40.85879]
+            },
+            "properties": {
+                "id": 29012,
+                "name": "Secluded Master Bedroom in Beautiful Huge Apt",
+                "host_id": 124797,
+                "host_name": "Fernando And Lenin",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Washington Heights",
+                "room_type": "Private room",
+                "price": 85,
+                "minimum_nights": 15,
+                "number_of_reviews": 36,
+                "last_review": "2017-08-17",
+                "reviews_per_month": 0.33,
+                "calculated_host_listings_count": 1,
+                "availability_365": 307
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9547, 40.68332]
+            },
+            "properties": {
+                "id": 29013,
+                "name": "B & B Room 1",
+                "host_id": 35935,
+                "host_name": "Angela",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Bedford-Stuyvesant",
+                "room_type": "Private room",
+                "price": 70,
+                "minimum_nights": 3,
+                "number_of_reviews": 63,
+                "last_review": "2019-05-14",
+                "reviews_per_month": 0.58,
+                "calculated_host_listings_count": 2,
+                "availability_365": 310
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.94894, 40.81618]
+            },
+            "properties": {
+                "id": 29455,
+                "name": "ACCOMMODATIONS GALORE #1",
+                "host_id": 126607,
+                "host_name": "Laurine",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Harlem",
+                "room_type": "Entire home/apt",
+                "price": 120,
+                "minimum_nights": 3,
+                "number_of_reviews": 155,
+                "last_review": "2019-06-20",
+                "reviews_per_month": 1.42,
+                "calculated_host_listings_count": 3,
+                "availability_365": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.96351, 40.68414]
+            },
+            "properties": {
+                "id": 29628,
+                "name": "Sunny Room in New Condo",
+                "host_id": 127608,
+                "host_name": "Chris",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Clinton Hill",
+                "room_type": "Private room",
+                "price": 89,
+                "minimum_nights": 3,
+                "number_of_reviews": 260,
+                "last_review": "2019-07-03",
+                "reviews_per_month": 2.35,
+                "calculated_host_listings_count": 1,
+                "availability_365": 278
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.99143, 40.72392]
+            },
+            "properties": {
+                "id": 29683,
+                "name": "Stylish & Sleek Apartment Near SoHo!",
+                "host_id": 125857,
+                "host_name": "Uli",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "East Village",
+                "room_type": "Entire home/apt",
+                "price": 185,
+                "minimum_nights": 5,
+                "number_of_reviews": 73,
+                "last_review": "2019-06-25",
+                "reviews_per_month": 0.66,
+                "calculated_host_listings_count": 1,
+                "availability_365": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9503, 40.73494]
+            },
+            "properties": {
+                "id": 30031,
+                "name": "NYC artists’ loft with roof deck",
+                "host_id": 129352,
+                "host_name": "Sol",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Greenpoint",
+                "room_type": "Private room",
+                "price": 50,
+                "minimum_nights": 3,
+                "number_of_reviews": 193,
+                "last_review": "2019-05-20",
+                "reviews_per_month": 1.86,
+                "calculated_host_listings_count": 1,
+                "availability_365": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98856, 40.71341]
+            },
+            "properties": {
+                "id": 30927,
+                "name": "Unique & Charming small 1br Apt. LES",
+                "host_id": 120335,
+                "host_name": "Cs",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Lower East Side",
+                "room_type": "Entire home/apt",
+                "price": 105,
+                "minimum_nights": 3,
+                "number_of_reviews": 32,
+                "last_review": "2019-06-14",
+                "reviews_per_month": 0.29,
+                "calculated_host_listings_count": 1,
+                "availability_365": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98399, 40.76754]
+            },
+            "properties": {
+                "id": 31130,
+                "name": "Most Central Location!",
+                "host_id": 117287,
+                "host_name": "Lara",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "Hell's Kitchen",
+                "room_type": "Private room",
+                "price": 130,
+                "minimum_nights": 2,
+                "number_of_reviews": 50,
+                "last_review": "2019-05-26",
+                "reviews_per_month": 0.45,
+                "calculated_host_listings_count": 3,
+                "availability_365": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.00303, 40.73442]
+            },
+            "properties": {
+                "id": 31555,
+                "name": "Luminous Beautiful West Village Studio",
+                "host_id": 135619,
+                "host_name": "Tom",
+                "neighbourhood_group": "Manhattan",
+                "neighbourhood": "West Village",
+                "room_type": "Entire home/apt",
+                "price": 115,
+                "minimum_nights": 29,
+                "number_of_reviews": 26,
+                "last_review": "2019-07-01",
+                "reviews_per_month": 0.25,
+                "calculated_host_listings_count": 1,
+                "availability_365": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.93248, 40.63188]
+            },
+            "properties": {
+                "id": 31902,
+                "name": "Sanctuary in East Flatbush",
+                "host_id": 137292,
+                "host_name": "Sunder",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Flatlands",
+                "room_type": "Private room",
+                "price": 77,
+                "minimum_nights": 2,
+                "number_of_reviews": 2,
+                "last_review": "2019-01-01",
+                "reviews_per_month": 0.02,
+                "calculated_host_listings_count": 1,
+                "availability_365": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9634, 40.6873]
+            },
+            "properties": {
+                "id": 31994,
+                "name": "Room with En Suite Bathroom & Deck",
+                "host_id": 137814,
+                "host_name": "Waldemar",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Clinton Hill",
+                "room_type": "Private room",
+                "price": 76,
+                "minimum_nights": 2,
+                "number_of_reviews": 426,
+                "last_review": "2019-06-24",
+                "reviews_per_month": 3.89,
+                "calculated_host_listings_count": 3,
+                "availability_365": 275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.93662, 40.68296]
+            },
+            "properties": {
+                "id": 32023,
+                "name": "FLAT MACDONOUGH",
+                "host_id": 137974,
+                "host_name": "Khem",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Bedford-Stuyvesant",
+                "room_type": "Entire home/apt",
+                "price": 125,
+                "minimum_nights": 3,
+                "number_of_reviews": 227,
+                "last_review": "2019-06-23",
+                "reviews_per_month": 2.09,
+                "calculated_host_listings_count": 2,
+                "availability_365": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.96765, 40.6863]
+            },
+            "properties": {
+                "id": 32037,
+                "name": "Huge Private  Floor at The Waverly",
+                "host_id": 116599,
+                "host_name": "Sahr",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Clinton Hill",
+                "room_type": "Private room",
+                "price": 135,
+                "minimum_nights": 4,
+                "number_of_reviews": 84,
+                "last_review": "2019-07-01",
+                "reviews_per_month": 0.77,
+                "calculated_host_listings_count": 3,
+                "availability_365": 365
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.95348, 40.73409]
+            },
+            "properties": {
+                "id": 32100,
+                "name": "Modern Greenpoint, Brooklyn Apt",
+                "host_id": 138579,
+                "host_name": "Ali+Scott",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Greenpoint",
+                "room_type": "Entire home/apt",
+                "price": 250,
+                "minimum_nights": 29,
+                "number_of_reviews": 3,
+                "last_review": "2017-07-30",
+                "reviews_per_month": 0.03,
+                "calculated_host_listings_count": 1,
+                "availability_365": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.94835, 40.71561]
+            },
+            "properties": {
+                "id": 32289,
+                "name": "Sun-drenched, artsy modernist 1 BDRM duplex",
+                "host_id": 139612,
+                "host_name": "Elisabeth",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Williamsburg",
+                "room_type": "Entire home/apt",
+                "price": 199,
+                "minimum_nights": 3,
+                "number_of_reviews": 10,
+                "last_review": "2018-06-11",
+                "reviews_per_month": 0.1,
+                "calculated_host_listings_count": 1,
+                "availability_365": 280
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.99183, 40.6857]
+            },
+            "properties": {
+                "id": 32331,
+                "name": "Sunny, Cobble Hill Apartment",
+                "host_id": 139874,
+                "host_name": "Sarah",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Cobble Hill",
+                "room_type": "Entire home/apt",
+                "price": 140,
+                "minimum_nights": 2,
+                "number_of_reviews": 4,
+                "last_review": "2016-04-24",
+                "reviews_per_month": 0.04,
+                "calculated_host_listings_count": 1,
+                "availability_365": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.83168, 40.74028]
+            },
+            "properties": {
+                "id": 32363,
+                "name": "Fully Furnished Basement Apartment",
+                "host_id": 140025,
+                "host_name": "Fredah",
+                "neighbourhood_group": "Queens",
+                "neighbourhood": "Flushing",
+                "room_type": "Private room",
+                "price": 140,
+                "minimum_nights": 2,
+                "number_of_reviews": 1,
+                "last_review": "2011-09-19",
+                "reviews_per_month": 0.01,
+                "calculated_host_listings_count": 1,
+                "availability_365": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.93524, 40.68281]
+            },
+            "properties": {
+                "id": 32965,
+                "name": "FLAT MACDONOUGH GARDEN",
+                "host_id": 137974,
+                "host_name": "Khem",
+                "neighbourhood_group": "Brooklyn",
+                "neighbourhood": "Bedford-Stuyvesant",
+                "room_type": "Entire home/apt",
+                "price": 115,
+                "minimum_nights": 3,
+                "number_of_reviews": 124,
+                "last_review": "2019-06-20",
+                "reviews_per_month": 1.72,
+                "calculated_host_listings_count": 2,
+                "availability_365": 170
+            }
+        }
+    ]
+}
+
