@@ -1,6 +1,8 @@
 import { define, render, html } from "heresy";
 import mapboxgl from "mapbox-gl";
 
+import GDCNavigationControl from "./navigation_control";
+
 import usCounties from "./us_polygon.json";
 import usStates from "./us_states_only.json";
 
@@ -9,8 +11,10 @@ const token =
 
 const ZOOM_AND_CENTER = {
     zoom: 4,
-    center: [-100.04, 38.907]
+    center: [-74.04728500751165, 40.68392799015035]
 };
+
+const BOUNDS = [[-171.791110603, 18.91619], [-66.96466, 71.3577635769]];
 
 const PolygonMap = {
     extends: "div",
@@ -200,7 +204,7 @@ const PolygonMap = {
             zoom: 6
         });
 
-        this.backButton.style.display = "block";
+        this.gdcNavControl.showHome();
     },
 
     onCountyClicked(e) {
@@ -225,7 +229,8 @@ const PolygonMap = {
         this.map = new mapboxgl.Map({
             container: this,
             style: "mapbox://styles/mapbox/light-v10",
-            ...ZOOM_AND_CENTER
+            ...ZOOM_AND_CENTER,
+            maxBounds: BOUNDS
         });
 
         this.popupForState = new mapboxgl.Popup({
@@ -237,11 +242,11 @@ const PolygonMap = {
 
         this.map.on("load", this.onMapLoaded.bind(this));
 
-        this.backButton = document.querySelector(".back-btn");
-        this.backButton.addEventListener(
-            "click",
-            this._handleBackButton.bind(this)
-        );
+        this.gdcNavControl = new GDCNavigationControl({
+            showZoom: true,
+            homeHandler: this._handleBackButton.bind(this)
+        });
+        this.map.addControl(this.gdcNavControl, "top-left");
     },
 
     _handleBackButton(e) {
@@ -262,7 +267,7 @@ const PolygonMap = {
         this.map.flyTo({
             ...ZOOM_AND_CENTER
         });
-        this.backButton.style.display = "none";
+        this.gdcNavControl.hideHome();
     }
 };
 

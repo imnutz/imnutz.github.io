@@ -4,12 +4,15 @@ import mapboxgl from "mapbox-gl";
 import usStates from "./usstates.json";
 import wifi from "./wifi.json";
 
+import GDCNavigationControl from "./navigation_control";
+
 const RAN_MIN = 10;
 const RAN_MAX = 1000;
 const STATE_ZOOM = 3;
-
 const token =
     "pk.eyJ1IjoiaW1udXR6IiwiYSI6ImNrMHAxY2UxZzBnc2EzZG11YmVhd2dubG0ifQ.bUTN7ceAHq6kVooe3MKgqg";
+
+const BOUNDS = [[-127.177734, 23.781965], [-61.171875, 50.567563]];
 
 var size = 200;
 
@@ -50,12 +53,22 @@ const MarkerMap = {
                         "#fbb03b",
                         50,
                         "#223b53",
-                        200,
+                        150,
                         "#e26a6a",
-                        500,
+                        250,
                         "#aa8f00",
+                        350,
+                        "#3498db",
+                        450,
+                        "#3477db",
+                        650,
+                        "#2277db",
+                        700,
+                        "#bb77db",
+                        750,
+                        "#0077db",
                         800,
-                        "#3498db"
+                        "#3aa7db"
                     ],
                     "circle-radius": {
                         property: "value",
@@ -224,7 +237,7 @@ const MarkerMap = {
                     zoom: 10
                 });
 
-                this.backButton.style.display = "block";
+                this.gdcNavigationControl.showHome();
 
                 // remove listeners
                 this.map.off(
@@ -260,26 +273,31 @@ const MarkerMap = {
         this.map = new mapboxgl.Map({
             container: this,
             style: "mapbox://styles/mapbox/light-v10",
+            center: [-98.657227, 40.097134],
             zoom: STATE_ZOOM
         });
 
         this.map.on("load", this.onMapLoaded.bind(this));
         this.popup = new mapboxgl.Popup();
 
-        this.backButton = document.querySelector(".back-btn");
-        this.backButton.addEventListener(
-            "click",
-            this.handleBackButton.bind(this)
-        );
+        this.gdcNavigationControl = new GDCNavigationControl({
+            showZoom: true,
+            showHome: false,
+            homeHandler: this.handleBackButton.bind(this)
+        });
+
+        this.map.addControl(this.gdcNavigationControl, "top-left");
+
+        this._setupElements();
     },
 
     handleBackButton(e) {
-        this.popup.remove(); 
+        this.popup.remove();
 
         this.map.getSource("mysource").setData(usStates);
         this.map.flyTo({
             center: usStates.features[0].geometry.coordinates,
-            zoom: STATE_ZOOM 
+            zoom: STATE_ZOOM
         });
 
         this.map.removeLayer(this.layers["wifi-price"].id);
@@ -288,33 +306,47 @@ const MarkerMap = {
         this.map.addLayer(this.layers["mycircle"]);
         this.map.addLayer(this.layers["mycircle-value"]);
 
-        this.backButton.style.display = "none";
+        this.gdcNavigationControl.hideHome();
 
         // remove listeners
-        this.map.off(
-            "mouseenter",
-            "wifi-price",
-            this.onMouseEnter.bind(this)
-        );
-        this.map.off(
-            "mouseleave",
-            "wifi-price",
-            this.onMouseLeave.bind(this)
-        );
+        this.map.off("mouseenter", "wifi-price", this.onMouseEnter.bind(this));
+        this.map.off("mouseleave", "wifi-price", this.onMouseLeave.bind(this));
         this.map.off("click", "wifi-price", this.onClick.bind(this));
 
         // new event listeners for new layers
-        this.map.on(
-            "mouseenter",
-            "mycircle",
-            this.onMouseEnter.bind(this)
-        );
-        this.map.on(
-            "mouseleave",
-            "mycircle",
-            this.onMouseLeave.bind(this)
-        );
+        this.map.on("mouseenter", "mycircle", this.onMouseEnter.bind(this));
+        this.map.on("mouseleave", "mycircle", this.onMouseLeave.bind(this));
         this.map.on("click", "mycircle", this.onClick.bind(this));
+    },
+
+    _setupElements() {
+        this.maxBoundsChk = document.querySelector(".max-bounds");
+        this.maxBoundsChk.addEventListener("click", this);
+
+
+        this.legendsChk = document.querySelector(".chk-legends");
+        this.legendsChk.addEventListener("click", this);
+
+        this.legendsContainer = document.querySelector(".legends-container");
+    },
+
+    onclick(e) {
+        const target = e.target;
+
+        if (/max-bounds/i.test(target.className)) {
+            if (target.checked) {
+                this.map.setMaxBounds(BOUNDS);
+            } else {
+                this.map.setMaxBounds(null);
+                this.map.setZoom(STATE_ZOOM);
+            }
+        } else if (/chk-legends/i.test(target.className)) {
+            if (target.checked) {
+                this.legendsContainer.style.display = "block";
+            } else {
+                this.legendsContainer.style.display = "none";
+            }
+        }
     }
 };
 

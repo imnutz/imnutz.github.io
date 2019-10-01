@@ -5,6 +5,15 @@
             href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.3.1/mapbox-gl.css"
             rel="stylesheet"
         />
+        <link
+            href="https://api.mapbox.com/mapbox-assembly/v0.23.2/assembly.min.css"
+            rel="stylesheet"
+        />
+        <script
+            async
+            defer
+            src="https://api.mapbox.com/mapbox-assembly/v0.23.2/assembly.js"
+        ></script>
         <style>
             html,
             body {
@@ -50,13 +59,98 @@
                 top: 10px;
                 left: 10px;
             }
+            .home-button {
+                pointer-events: auto;
+            }
+            .home-button svg {
+                margin: 0 auto;
+            }
+            .gdc-ctrl-home {
+                background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEwAACxMBAJqcGAAAAKNJREFUOI3N0jkKwlAUheEPtdMNCO7BwtIl2FlZWbkhcRMi6cQ1pBJcg0M24FCJWphg0Jihy4EDl/f4z71voM5qYoE5GlXhDjZ4xl6jXRbuYZeCE2/RLYIHiDLgxAf0/8FjXHPgxGeMvuEZHiXgxHdM+dzuBSsci86IPQLcsjaDEt2XaaBV0CmM66H36/woLyDEJDVZZkDlH1YUEKXqU4n1GugFVjc/prG/iiMAAAAASUVORK5CYII=');
+                background-repeat: no-repeat;
+                background-position: center center;
+                outline: none;
+            }
+
+            .menu {
+                position: absolute;
+                top: 10px;
+                left: 120px;
+                background-color: lightgray;
+                color: black;
+                border: 1px solid black;
+                border-radius: 5px;
+                display: flex;
+                padding: 5px;
+            }
+            .bg-1 {
+                background-color: #fbb03b;
+            }
+            .bg-2 {
+                background-color: #223b53;
+            }
+            .bg-3 {
+                background-color: #e26a6a;
+            }
+            .bg-4 {
+                background-color: #aa8f00;
+            }
+            .bg-5 {
+                background-color: #3498db;
+            }
+            .bg-6 {
+                background-color: #3477db;
+            }
+            .bg-7 {
+                background-color: #2277db;
+            }
+            .bg-8 {
+                background-color: #bb77db;
+            }
+            .bg-9 {
+                background-color: #0077db;
+            }
+            .bg-10 {
+                background-color: #3aa7db;
+            }
+            .legends-container {
+                position: absolute;
+                top: 120px;
+                display: none;
+            }
         </style>
     </head>
     <body>
         <div id="app"></div>
 
-        <button class="back-btn">Back</button>
+        <div class="menu">
+            <div>
+                <input type="checkbox" class="max-bounds"> Set bounds
+            </div>
 
+            <div>
+                <input type="checkbox" class="chk-legends"> Legends
+            </div>
+        </div>
+        <div class='legends-container w240 round shadow-darken10 px12 py12 txt-s'>
+          <strong class='block mb6'>Value</strong>
+          <div class='grid mb6'>
+            <div class='col bg-1 h12'></div>
+            <div class='col bg-2 h12'></div>
+            <div class='col bg-3 h12'></div>
+            <div class='col bg-4 h12'></div>
+            <div class='col bg-5 h12'></div>
+            <div class='col bg-6 h12'></div>
+            <div class='col bg-7 h12'></div>
+            <div class='col bg-8 h12'></div>
+            <div class='col bg-9 h12'></div>
+            <div class='col bg-10 h12'></div>
+          </div>
+          <div class='grid txt-xs'>
+            <div class='col flex-child--grow'>Low</div>
+            <div class='col flex-child--grow align-r'>High</div>
+          </div>
+        </div>
         <script src="dist/layer.js"></script>
     </body>
 </html>
